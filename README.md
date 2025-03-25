@@ -3,4 +3,4 @@
 - :mortar_board: ADS student at [UNISUAM](https://www.unisuam.edu.br/).
 - :four_leaf_clover: Brazilian, software engineer.
 - :computer: Node.js, Dart/Flutter, Java, Python.
-- 🔗 My linkedin account: [Linkedin](https://www.linkedin.com/in/erick-nunes-1a77b3220/)
+- 🔗 My linkedin account: [Linkedin](https://www.linkedin.com/in/erick-nunes-1a77b3220/).
